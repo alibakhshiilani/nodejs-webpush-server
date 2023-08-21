@@ -1,0 +1,16 @@
+{
+    "name": "web-push-server",
+    "version": "1.0.0",
+    "description": "Node.js Web Push Server Example",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.11",
+      "web-push": "^3.4.4",
+      "body-parser": "^1.19.0"
+    }
+  }
+  
